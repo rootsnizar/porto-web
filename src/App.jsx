@@ -20,13 +20,13 @@ export default function App() {
             <div className="text-2xl font-extrabold tracking-tight">IVANNIZAR</div>
             
             <nav className="hidden md:flex space-x-10 text-l font-semibold absolute left-1/2 transform -translate-x-1/2">
-              <a href="#home" className="px-5 py-2 rounded-l hover:bg-neutral-200 hover:dark:bg-gray-700 transition"
+              <a href="#home" className="px-5 py-2 rounded-xl hover:bg-neutral-200 hover:dark:bg-gray-700 transition"
               >Tentang</a
               >
-              <a href="#projects" className="px-5 py-2 rounded-l hover:bg-neutral-200 hover:dark:bg-gray-700 transition"
+              <a href="#projects" className="px-5 py-2 rounded-xl hover:bg-neutral-200 hover:dark:bg-gray-700 transition"
               >Proyek</a
               >
-              <a href="#contact" className="px-5 py-2 rounded-l hover:bg-neutral-200 hover:dark:bg-gray-700 transition"
+              <a href="#contact" className="px-5 py-2 rounded-xl hover:bg-neutral-200 hover:dark:bg-gray-700 transition"
               >Kontak</a
               >
             </nav>
