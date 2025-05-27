@@ -88,7 +88,7 @@ export default function App() {
       </header>
 
       <section id="home" className="h-screen flex items-center justify-center text-center bg-cover bg-center py-20 pt-20" 
-      style={{ backgroundImage: "url('/bg.jpg')" }}>
+      style={{ backgroundImage: "url('public/bg.jpg')" }}>
         <div data-aos="fade-up">
           <h2 className="text-4xl md:text-7xl font-bold mb-4 text-yellow-500 drop-shadow">Hallo Semua.</h2>
           <p className="text-lg md:text-2xl mb-6 text-white drop-shadow">Selamat Datang di Website Saya</p>
